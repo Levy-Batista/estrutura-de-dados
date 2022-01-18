@@ -30,11 +30,6 @@ typedef struct {
     Cadastro* inicio;
 } Lista;
 
-/*typedef struct {
-    char[10] apelido;
-    int ponto = 0;
-}*/
-
 Lista* Criar_Lista(void);
 Fila* Criar_Fila(void);
 Pilha* Criar_Pilha(void);
